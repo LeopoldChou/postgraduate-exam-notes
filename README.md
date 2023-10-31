@@ -6,9 +6,9 @@
 
 ## 101 马原
 
-导论
+[导论](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/101-%E6%94%BF%E6%B2%BB/1-%E9%A9%AC%E5%8E%9F/png/0-%E5%AF%BC%E8%AE%BA.png)
 
-第一章 第1节 - [世界的物质性及发展规律](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/)
+第一章 第1节 - [世界的物质性及发展规律](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/101-%E6%94%BF%E6%B2%BB/1-%E9%A9%AC%E5%8E%9F/png/1-%E4%B8%96%E7%95%8C%E7%9A%84%E7%89%A9%E8%B4%A8%E6%80%A7%E5%8F%8A%E5%8F%91%E5%B1%95%E8%A7%84%E5%BE%8B.png)
 
 
 
