@@ -2,6 +2,8 @@
 
 考研笔记
 
+***建议使用软件 Typora 打开***
+
 
 
 ## 101 马原
@@ -14,7 +16,9 @@
 
 ## 201 英语一作文
 
-[图画作文句式模板](#)
+[图画作文句式模板](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/201-%E8%8B%B1%E8%AF%AD%E4%B8%80/%E5%9B%BE%E7%94%BB%E4%BD%9C%E6%96%87.md)
+
+[文字材料作文句式模板](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/201-%E8%8B%B1%E8%AF%AD%E4%B8%80/%E6%96%87%E5%AD%97%E6%9D%90%E6%96%99%E4%BD%9C%E6%96%87.md)
 
 
 
