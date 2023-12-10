@@ -24,6 +24,8 @@
 
 ## 408 计算机网络
 
+考试大纲 - [计算机网络 2024 年大纲](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/408-%E8%AE%A1%E7%A7%91/1-%E8%AE%A1%E7%BD%91/2024%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%80%83%E7%A0%94%E5%A4%A7%E7%BA%B2.md)
+
 第一章 - [计算机网络体系结构](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/408-%E8%AE%A1%E7%A7%91/1-%E8%AE%A1%E7%BD%91/1-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 
 第二章 - [物理层](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/408-%E8%AE%A1%E7%A7%91/1-%E8%AE%A1%E7%BD%91/2-%E7%89%A9%E7%90%86%E5%B1%82.md)
@@ -40,4 +42,19 @@
 
 ## 408 数据结构
 
+考试大纲 - [数据结构 2024 年大纲](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/408-%E8%AE%A1%E7%A7%91/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/2024%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%80%83%E7%A0%94%E5%A4%A7%E7%BA%B2.md)
+
 [数据结构内容概要](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/408-%E8%AE%A1%E7%A7%91/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+
+
+
+## 408 计算机组成原理
+
+考试大纲 - [计算机组成原理 2024 年大纲](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/408-%E8%AE%A1%E7%A7%91/2-%E8%AE%A1%E7%BB%84/2024%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E7%A0%94%E5%A4%A7%E7%BA%B2.md)
+
+
+
+## 408 操作系统
+
+考试大纲 - [操作系统 2024 年大纲](https://github.com/LeopoldChou/postgraduate-exam-notes/blob/main/408-%E8%AE%A1%E7%A7%91/4-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/2024%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%80%83%E7%A0%94%E5%A4%A7%E7%BA%B2.md)
+
